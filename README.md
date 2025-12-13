@@ -14,12 +14,21 @@
 
 ---
 
+
+
 ## 🔵 Blue Pill (Quick View)
 <table>
   <tr>
     <td width="52%" valign="top">
 
-<img src="https://raw.githubusercontent.com/bv-0010-0001-0010/bv-0010-0001-0010/main/github-metrics.svg?v=1" />
+
+### > activity.feed
+<img src="https://raw.githubusercontent.com/bv-0010-0001-0010/bv-0010-0001-0010/main/github-metrics.svg?v=2" />
+
+
+
+
+
 
 ### > about.me
 ```txt
