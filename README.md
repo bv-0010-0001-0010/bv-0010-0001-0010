@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- MATRIX HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff41&height=120&section=header&text=bv-0010-0001-0010&fontColor=00ff41&fontAlignY=55&desc=Welcome%20to%20the%20real%20world&descAlignY=80" />
+</p>
 
-<!--
-**bv-0010-0001-0010/bv-0010-0001-0010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=Wake+up...;The+Matrix+has+you...;Follow+the+white+rabbit.;Loading+profile+modules..." />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="#-red-pill-deep-dive"><img src="https://img.shields.io/badge/RED%20PILL-Deep%20Dive-ff0033?style=for-the-badge&labelColor=000000"></a>
+  <a href="#-blue-pill-quick-view"><img src="https://img.shields.io/badge/BLUE%20PILL-Quick%20View-2b7cff?style=for-the-badge&labelColor=000000"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔵 Blue Pill (Quick View)
+<table>
+  <tr>
+    <td width="52%" valign="top">
+
+### > about.me
+```txt
+Name: Bhavesh Komuravelli
+Location: Australia
+Focus: Building Toddledo (APAC childcare SaaS)
+Style: Clean UI, automation, data, systems thinking
