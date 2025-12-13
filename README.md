@@ -25,3 +25,6 @@ Name: Bhavesh Komuravelli
 Location: Australia
 Focus: Building Toddledo (APAC childcare SaaS)
 Style: Clean UI, automation, data, systems thinking
+
+
+<img src="https://raw.githubusercontent.com/bv-0010-0001-0010/bv-0010-0001-0010/main/github-metrics.svg?v=1" />
