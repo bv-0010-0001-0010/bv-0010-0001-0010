@@ -19,6 +19,8 @@
   <tr>
     <td width="52%" valign="top">
 
+<img src="https://raw.githubusercontent.com/bv-0010-0001-0010/bv-0010-0001-0010/main/github-metrics.svg?v=1" />
+
 ### > about.me
 ```txt
 Name: Bhavesh Komuravelli
@@ -27,4 +29,3 @@ Focus: Building Toddledo (APAC childcare SaaS)
 Style: Clean UI, automation, data, systems thinking
 
 
-<img src="https://raw.githubusercontent.com/bv-0010-0001-0010/bv-0010-0001-0010/main/github-metrics.svg?v=1" />
