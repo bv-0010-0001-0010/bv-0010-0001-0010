@@ -7,7 +7,6 @@
 </p>
 
 
-
 ### 💫 About Me:
 👋 Hi, I’m Bhavesh, a full-stack dev in Australia | @Apple | @Metso & Jindex | @Amasan who turns caffeine into clean UI and reliable APIs.  <br>I’ve been building web apps for 4+ years across React/Node stacks, with a soft spot for performance, accessibility, and tidy architectures.<br><br>🔭 I’m currently working on: Toddledo (website + main app) & BackBencher (restaurant website)  <br>👯 I’m looking to collaborate on: React/Node Products | Supabase Builds | Accessibility-First UI (WCAG vibes)<br>🤝 I’m looking for help with Scaling + Observability | CI/CD Polish & Performance Budgets  <br>🌱 I’m currently learning: AI System Design | DevOps for better AI Automation | Component Architectures<br>💬 Ask me about: React, Node/Express APIs | SVN & Git workflows | CMS/AEM-Style Components | UI Performance & AI Tools  <br>⚡ Fun fact: I’m into Space Science | Bio-Tech | Nature, & I’ve been a State Soccer Player + U19 Team Captain<br>🎵 Off-screen: Soccer | Netflix & Chill | Hiking in Rainforests & Snow Mountains.<br>
 
@@ -118,8 +117,6 @@
 
 
 
-### 📊 GitHub Stats
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:separate;"> <tr> <td align="center" bgcolor="#000000" style="padding:14px;border:1px solid #000000;border-radius:12px;"> <table width="100%" cellspacing="14" cellpadding="0"> <tr> <td width="50%" align="center" bgcolor="#000000" style="padding:14px;border:1px solid #000000;border-radius:12px;"> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=bv-0010-0001-0010&theme=vue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" /> </td> <td width="50%" align="center" bgcolor="#00000" style="padding:14px;border:1px solid #000000;border-radius:12px;"> <img width="100%" src="https://nirzak-streak-stats.vercel.app/?user=bv-0010-0001-0010&theme=vue&hide_border=false" alt="GitHub streak" /> </td> </tr> <tr> <td width="50%" align="center" bgcolor="#000000" style="padding:14px;border:1px solid #000000;border-radius:12px;"> <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bv-0010-0001-0010&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" /> </td> <td width="50%" align="center" bgcolor="#000000" style="padding:14px;border:1px solid #000000;border-radius:12px;"> <img width="100%" src="https://github-contributor-stats.vercel.app/api?username=bv-0010-0001-0010&limit=5&theme=vue-dark&combine_all_yearly_contributions=true" alt="Top contributed repos" /> </td> </tr> </table> </td> </tr> </table>
 
 
 
